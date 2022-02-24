@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>News from Ireland Being the examination and confession of VVilliam Kelso, a Scotch rebel, taken in Ireland, whether he fled, after the defeat of the rebels in Scotland; before George Rawdon, Esquire; one of His Majesties justices of the peace there. Also a letter from C. George Mac Cartney, giving an account of several barks full of Scotch rebels, seen coming from Scotland to Ireland. Together with a proclamation set out by the Duke of Ormond, for their apprehension.</title>
+            <author>Kelso, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53143</idno>
+            <idno type="STC">Wing N972</idno>
+            <idno type="STC">ESTC R33801</idno>
+            <idno type="EEBO-CITATION">99834097</idno>
+            <idno type="PROQUEST">99834097</idno>
+            <idno type="VID">38582</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53143)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38582)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1973:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>News from Ireland Being the examination and confession of VVilliam Kelso, a Scotch rebel, taken in Ireland, whether he fled, after the defeat of the rebels in Scotland; before George Rawdon, Esquire; one of His Majesties justices of the peace there. Also a letter from C. George Mac Cartney, giving an account of several barks full of Scotch rebels, seen coming from Scotland to Ireland. Together with a proclamation set out by the Duke of Ormond, for their apprehension.</title>
+                  <author>Kelso, William.</author>
+                  <author>MacCartney, George, fl. 1679.</author>
+                  <author>Ireland. Lord Lieutenant (1641-1649 : Ormonde)</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year 1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bothwell Bridge, Battle of, 1679 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38582:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 80 -->
+            <p>News from Ireland.</p>
+            <p>BEING THE Examination and Confeſsion OF VVILLIAM KELSO, A <hi>SCOTCH</hi> REBEL, Taken in <hi>IRELAND,</hi> Whether he Fled, After the Defeat of the REBELS in <hi>SCOTLAND;</hi> BEFORE <hi>GEORGE RAWDON,</hi> Eſquire; One of His Majeſties Juſtices of the Peace there.</p>
+            <p>
+               <hi>ALSO</hi> A LETTER from C. <hi>George</hi> Mac <hi>Cartney,</hi> Giving an account Of ſeveral Barks full of <hi>Scotch</hi> Rebels, ſeen coming from <hi>Scotland</hi> to <hi>Ireland.</hi>
+            </p>
+            <p>TOGETHER WITH A PROCLAMATION <hi>Set out by the</hi> Duke of ORMOND, For their Apprehenſion.</p>
+            <p>Printed in the Year 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:38582:2"/>
+            <!-- PDF PAGE 81 -->
+            <head>The Examination of <hi>William Kelſo,</hi> of the Town of <hi>Air</hi> in <hi>Scotland,</hi> Chirurgion and Apothecary, Aged <hi>27</hi> Years, taken at <hi>Lisburn,</hi> June <hi>27, 1679.</hi>
+            </head>
+            <p>WHo being demanded why he came to be in the Company of the Rebels in <hi>Scotland,</hi> ſaith, that <hi>Robert Hamilton,</hi> who is only known amongſt them by the name of Collonel <hi>Hamilton,</hi> and was the chief in Command amongſt them, and he ſent for him this Examinant from <hi>Air</hi> to come and be helpful to them in the Exerciſe of his Profeſſion in Chirurgery; whereupon being alſo perſwaded to it by his Neighbours, he went on <hi>Wedneſday</hi> was ſevennight to their Camp, then at and about <hi>Hamilton,</hi> where (to the beſt of his judgment) they were in Number about 8000 Foot, and 14 Troops, ſome being about 60, and others more; and being demanded who were their Captains, and what Collonels or Field-Officers he ſaw of the Foot, ſaith, he did not ſee or hear of any Officers ſtiled Captain, but ſaith, that ſome of the chief amongſt the ſeveral parties, out of the bounds and parts from whence they came, commanded them. And he further ſaith, that it was commonly ſpoken, that they intended to diſperſe of themſelves, and return to their Dwellings, 'till they had notice that the King's Forces were to imbody at <hi>Leith.</hi> And as to this Examinants particular condition, he ſaith, that he was reſolved to remove himſelf and Family out of <hi>Scotland,</hi> to <hi>London,</hi> and was ſelling his Shop, being weary of troubles by his living in <hi>Scotland,</hi> and did then reſolve not to return again to the Rebels Camp. And he ſaith, that on <hi>Friday</hi> laſt, one of the Scouts of the Rebels being wounded, and ſhot through the Thigh, about two Miles from the Camp, he was ſent out to dreſs him, but found him dead at the place he received his Wound; whereupon he, this Exa<g ref="char:EOLhyphen"/>minant, left the Camp next Morning, and went Nine Miles off, to <hi>Ryland,</hi> at which time there was no notice of the marching of the King's Forces that day, being <hi>Saturday;</hi> but upon <hi>Sunday,</hi> about Nine in the Morning, this Examinant heard the Ordnance playing, and not long after divers fled thither, and declar'd, the King's Army had marched all that Night, and that the Rebels Army was beaten and routed by the Ordnance the King's Forces had planted at <hi>Buddelbrig,</hi> a paſs that the Rebels had endeavour'd to maintain, but were beaten from it, and that the Canon played from thence upon the Rebels Camp, and broke their Horſe, who run away; and after that, he this Examinant made haſt towards ſome Port, to be Tranſported into <hi>Ireland,</hi> intending to go to <hi>Dublin,</hi> and take ſhipping for <hi>London.</hi> And being demanded what he heard farther on the way by ſuch as eſcaped from the Rebels Camp, ſays, divers of them, ſome being four or more in company, and others more, affirmed dolefully, the Rebels were all broken, and fled ſeveral ways, but they could or would not tell what Execution was done, or what Number was ſlain or taken, but ſaith, none of thoſe he ſpoke with were wounded, or did fight, as he believes; and ſaith, it was generally ſpoken, the Duke of <hi>Monmouth</hi> commanded the King's Forces in chief, and was there in perſon with them, and that General <hi>Dalyel,</hi> and General <hi>David Leſly,</hi> and thoſe Officers named in the Proclamation, for Aſſem<g ref="char:EOLhyphen"/>bling the Heritors to attend the King's Standard, was there alſo, as he believes, and further ſaith not. Depoſed before me</p>
+            <closer>
+               <signed>GEO. RAWDON.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="3" facs="tcp:38582:3"/>
+            <!-- PDF PAGE 82 -->
+            <head>Belfaſt, <hi>June</hi> 27th. 1679.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THis day there came to Town one <hi>George Lyon,</hi> Maſter of a <hi>Glaſgow</hi> Ship, who gave an account of ſome Boats he met at Sea, to my Lord <hi>Mount Alexander</hi> and me, when we were together, but after my Lord was gone, I had ſome more ſerious diſcourſe with him, and he told me, That yeſterday before he came into the Lough of <hi>Carrickfergus,</hi> he ſaw 12 or 14 boats and Barks at Sea coming from <hi>Scotland</hi> to <hi>Ireland,</hi> and that he met with two of them that were come into this Lough below <hi>Carrickfergus,</hi> and that he went Aboard one of the veſſels laden with Coales, and that there appeared to his ſight ſeven or eight Men, and that there was one Gentleman amongſt them, but he could not get his name, which Gentleman was very well Armed with Sword and Piſtol as were ſeveral of the reſt, and that the other boat was full of Men, and that they had Arms alſo, but all very much dejected; he ſays they told him, that there was an Engage<g ref="char:EOLhyphen"/>ment between the Kings party and the Rebellious party on Sunday laſt, and that they begun about ſeven of the Clock to Skirmiſh, the Presbyterian party being then about 11000, the Kings party not above 4000, but they did not Engage in Battle till nigh Nine of the Clock, and that the diſpute did not laſt above an hour, till the Horſe of the Rebellious party retreated and broak through a wing of their own Foot; Theſe men ſay, they came off in a party of about 300 Horſe, and when they were about 2 Miles off, on the Top of a Hill, they looked back and ſaw their Foot ſtanding on their Ground, and firing very hard, but this party before they halted came to <hi>Kilmares</hi> in their Roadway to <hi>Irwin,</hi> but as they lay upon the Graſs to reſt themſelves on <hi>Monday</hi> Morning, a friend of their own came and told them, that the Foot was broke, and the Kings party was in purſuit of them, and that there was Order for no quarter for ſome time, neither quarter to any who harboured them and denyed them, upon which that party preſently took Horſe and Shifted every one for themſelves to ſeveral Ports to get paſſage to <hi>Ireland</hi> for ſhelter; Theſe two Barks this Man met with came from <hi>Irwin</hi> on <hi>Wedneſday</hi> laſt, and he faith, he verily believes the reſt of the Boats and Barks he ſaw were all full of Men, and came from <hi>Irwin</hi> and other parts thereabouts: And he told me alſo, that theſe Men deſired him to take them aboard his Ship, and bring them a ſhore, for he was laden with Deal-boards coming from <hi>Norway,</hi> but he denyed to bring them aſhore; ſaying, if they came aſhore he doubted they would be put in priſon, and he, ſhould he bring them, upon which they both went to Sea again, but whether they returned to <hi>Scotland,</hi> or gone to ſome other part of this Country, he knows not. Sir, this was all the account he could give, which I thought fit to acquaint you of, and remain with my reſpects,</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>
+                  <hi>your humble ſervant</hi> George <hi>Mac</hi> Cartney.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="4" facs="tcp:38582:4"/>
+            <!-- PDF PAGE 83 -->
+            <head>By the Lord <hi>LIEUTENANT</hi> and <hi>COUNCIL.</hi>
+            </head>
+            <opener>
+               <salute>ORMOND.</salute>
+            </opener>
+            <p>VVHEREAS there hath been a Notorious and Vnnatural Rebellion lately raiſed in <hi>Scotland,</hi> by ſeveral Traiterous and Diſloyal Perſons, who did in great Numbers, take up Arms againſt His Majeſty, and gave Battle to His Ma<g ref="char:EOLhyphen"/>jeſties Forces there, which, by the Succeſs it has pleaſed God to give His Majeſties Army there, is now ſuppreſſed, and many of the ſaid Rebels killed and taken, and the reſt diſperſed. <hi>And</hi> whereas many of the Perſons who were guilty of the ſaid Rebellion, may, to avoid the juſt Puniſh<g ref="char:EOLhyphen"/>ment which they deſerve, endeavour to fly into this Kingdom of <hi>Ireland,</hi> and conceal themſelves here. <hi>We</hi> have thought fit to require all Mayors, Sheriffs, Iuſtices of the Peace, and other His Majeſties Officers and Miniſters, both Civil and Military, That they make diligent ſearch after all ſuch Perſons as lately have come, or hereafter ſhall come out of <hi>Scotland</hi> into this Kingdom, and to ſeize and ſecure all ſuch of them as ſhall not give a ſufficient account of their Loyalty, or whom they ſhall find juſt cauſe to ſuſpect to have been concerned in the ſaid Rebellion; And all His Majeſties, and other Loyal Subjects, in the ſeveral Sea-Port Towns, and other places of the Kingdom, are hereby alſo required, to make ſtrict and diligent Search after ſuch Perſons, and to bring them before one of His Majeſties Iuſtices of the Peace, in ſuch County where they ſhall be ſeized on. <hi>And</hi> the ſaid Iuſtices of the Peace are from Time to Time, to give us an account of what Perſons ſhall be ſo brought before them, and ſecured by them. <hi>And</hi> we do hereby alſo ſtrictly Charge and Command all His Majeſties Subjects in this Kingdom, that they do forbear either Harbouring or Re<g ref="char:EOLhyphen"/>lieving any of the ſaid Rebels, ſo coming out of <hi>Scotland;</hi> and that they forthwith make a Diſcovery of ſuch of them as they ſhall at any time know to be reſiding in this Kingdom, unto any of His Majeſties Iuſtices of the Peace, under pain of their utmoſt Perils, and being looked upon as Perſons guilty of the ſame Traiterous Deſigns with them.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at the Council-Chamber in <hi>Dublin,</hi>
+                  </hi>
+                  <date>
+                     <hi>the 30<hi rend="sup">th</hi> of <hi>June,</hi> 1679.</hi>
+                  </date>
+               </dateline>
+               <signed>
+                  <hi>Mich. Armagh, <hi>C.</hi> Jo. Dublin, Aran, Bleſſington, Lanesborough, Hen. Mid. Ca. Dillon, Ro. Booth, Jo. Keating, Jo. Byſſe, Jo. Davis, Ol. St. George, Tho Jones, Will. Flower, Tho. Newcomen, Tho. Ratcliff.</hi>
+               </signed>
+            </closer>
+            <closer>GOD SAVE THE KING.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
